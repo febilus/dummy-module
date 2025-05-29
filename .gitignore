@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 /dummy-lib/target/
 /dummy-test/target/
+/dummy-lib/nb-configuration.xml
+/dummy-test/nb-configuration.xml
